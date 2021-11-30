@@ -1,0 +1,6 @@
+created Docker image with Dockerfile
+Added docker-compose.yml
+
+to up it run
+>docker compose up
+open the browser and check with url - http://localhost:10555/
